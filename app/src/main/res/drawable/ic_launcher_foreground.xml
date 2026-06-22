@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean, abstract minimalist diamond/spark shape for default launcher icon -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M54,24 L64,44 L84,54 L64,64 L54,84 L44,64 L24,54 L44,44 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 L58,48 L68,54 L58,60 L54,70 L50,60 L40,54 L50,48 Z" />
+</vector>
